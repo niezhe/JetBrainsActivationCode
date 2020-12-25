@@ -20,8 +20,12 @@ Qr7EpuKzNtnTuEmGcLg/YnYyVEcnvR4iflCYTHc6dwuB8Jbx7e6E43CPRA+KjL2O/D/C+hj/rDFrwCNg
 ```shell
 f9fF1I/ygZI7Ff14sigGMZmZ7KJkhsM364o6exiukAqGORVXN1e4Fk4B8+hGSl5B+iLp9nIA2pSNhNGlxnDgSV3xC85CGVvWY9SWa+ECeWhJZ1+hitDPCNw5lKaRBnxIKhAfQ3aJl4S5WmrOkfKoIuz3UXVoX7hZGxofqQtzfuc
 ```
+#### 安装参数四
+```shell
+HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQzur4yWRk35qghES4JLFlmKty/UNiYh6RZyXeCNPTCvIqxT9HR2YKqQT93be6AfLTcbJwPSLO201g+HbMbg6+aK1MUJI
+```
+
 然后点击为 IDEAIntelliJ IDEA 安装，最后点击 是，会重新启动。
 重新启动后点击菜单栏的「IDEAIntelliJ IDEA」，再点击「Preferences…」打开软件的偏好设置，左上角的搜索框处输入「update」,取消勾选右侧的「Automatically check updates」，然后点击「OK」（为了不必要的麻烦，请务必操作！
-如果不能激活，需要输入路径  
--javaagent:你pycharm的安装目录\jetbrains-agent.jar  
-如：-javaagent:E:\PyCharm 2019.2.6\jetbrains-agent.jar  
+
+***如果输入第一个安装参数不能激活，请更换第二个，第三个安装参数，第四个参数，一个个尝试，自己目前用的安装参数三***
