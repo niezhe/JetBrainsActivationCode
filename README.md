@@ -29,3 +29,9 @@ HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQ
 重新启动后点击菜单栏的「IDEAIntelliJ IDEA」，再点击「Preferences…」打开软件的偏好设置，左上角的搜索框处输入「update」,取消勾选右侧的「Automatically check updates」，然后点击「OK」（为了不必要的麻烦，请务必操作！
 
 ***如果输入第一个安装参数不能激活，请更换第二个，第三个安装参数，第四个参数，一个个尝试，自己目前用的安装参数三***
+
+#### 作者公众号：
+公众号定期发布激活码，直接输入激活即可   
+
+jenny chat  
+![微信公众号](https://img-blog.csdnimg.cn/20200908222150263.png#pic_center)
