@@ -8,6 +8,7 @@
 将安装包内的「破解补丁」文件夹下面的 jetbrains-agent.zip 拖拽到你喜欢的位置（此文件你拖到你喜欢的位置后未来不能删除！）
 将 jetbrains-agent.zip 拖拽到「项目创建管理窗口」中，然后点击 Restart 按钮重新启动。
 重新启动后出现「JetbrainsAgent 配置助手」窗口，在安装参数处复制粘贴下面的安装参数  
+jetbrains-agent下载地址： https://raw.githubusercontent.com/niezhe/JetBrainsActivationCode/main/jetbrains-agent-latest.zip
 #### 安装参数一
 ```shell 
 LFq51qqupnaiTNn39w6zATiOTxZI2JYuRJEBlzmUDv4zeeNlXhMgJZVb0q5QkLr+CIUrSuNB7ucifrGXawLB4qswPOXYG7+ItDNUR/9UkLTUWlnHLX07hnR1USOrWIjTmbytcIKEdaI6x0RskyotuItj84xxoSBP/iRBW2EHpOc
@@ -31,7 +32,7 @@ HbVMaxqQrTt4UvDUk8fhyFT7uRdv48bqJsQMwVFp53YH9PZC9l+ZxAgnA60cLwwhURw/e4DcZZtle4tQ
 ***如果输入第一个安装参数不能激活，请更换第二个，第三个安装参数，第四个参数，一个个尝试，自己目前用的安装参数三***
 
 #### 作者公众号：
-公众号定期发布激活码，直接输入激活即可   
+不喜欢麻烦的朋友，可以关注公众号获取激活码，直接激活----激活码失效会马上更新 
 
 jenny chat  
 ![微信公众号](https://img-blog.csdnimg.cn/20200908222150263.png#pic_center)
